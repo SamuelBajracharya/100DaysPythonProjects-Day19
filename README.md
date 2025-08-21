@@ -54,27 +54,6 @@ python weather_app.py
 - Enter the city name when prompted.
 - Type `q` to quit the app.
 
-Example:
-
-```
----Weather App---
-Enter a city name (or 'q' to quit): London
-
----Weather Information---
-City: London
-Temperature: 22C
-Weather: Clear Sky
-Humidity: 56%
-Wind Speed: 3.6m/s
-```
-
----
-
-## Screenshots
-
-![Example Screenshot](screenshot.png)
-
----
 
 ## Dependencies
 
